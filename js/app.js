@@ -60,4 +60,3 @@ function NombreYCategoria() {
     alert(alert);
 }
 
-NombreYCategoria();
